@@ -21,33 +21,16 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 
 - 👯 **Blog:** [Understanding Depth Perception in Computer Vision](https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/).
 
-- 📫 **How to reach me:** [<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ashupdsce/) [<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/ashutoshpandey12/) [ashutoshpandey123456@gmail.com](mailto:ashutoshpandey123456@gmail.com).
-
-<p align="center">
-  <i><b>Let's connect and chat!</b></i>
-
-  <p align="center">
-    <a href="https://twitter.com/farziphotograph" alt="Twitter"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/jatin-pahuja/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/farziphotographer" alt="Instagram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/farziphotographer" alt="Telegram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
-
-  </p>
-    
-</p>
-
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Octaves0911&show_icons=true&theme=dark)
 
 <p align="center">
   <i><b>Let's connect and chat!</b></i>
 
   <p align="center">
-    <a href="https://twitter.com/farziphotograph" alt="Twitter"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/jatin-pahuja/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
-    <a href="https://www.instagram.com/farziphotographer" alt="Instagram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://t.me/farziphotographer" alt="Telegram"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/telegram.png" height="30" width="30"></a>&nbsp;
-     <a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
+    <a href="https://github.com/Octaves0911" alt="GitHub"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/github_new.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.linkedin.com/in/octaves0911/" alt="Linkedin"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+    <a href="https://www.instagram.com/mallik.aman0911/" alt="Instagram"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/instagram.png" height="30" width="30"></a>&nbsp;
+     <a href="mailto:amanmallik11091999@gmail.com"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/email_new.png" height="30" width="30"></a>
 
   </p>
     
