@@ -13,8 +13,6 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-
-
-</br></br></br></br>
+</br></br>
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Octaves0911&show_icons=true&theme=dark)
