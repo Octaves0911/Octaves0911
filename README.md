@@ -20,7 +20,7 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 </br></br>
 
 ### Blog- </br>
-<a target="_blank" href="https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/article.png" alt="Recent Article 0"></a>
+<a target="_blank" href="https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/"><img src="https://github.com/Octaves0911/social-media-logos/blob/master/article.png" alt="Recent Article 0" width="600" height="300"></a>
 </br>
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Octaves0911&show_icons=true&theme=dark)
