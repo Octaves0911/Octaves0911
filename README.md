@@ -7,6 +7,7 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ### Language and Tools Used- </br>
 ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
+![Python](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge%2B%2B&logoColor=00599C%&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
