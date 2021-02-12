@@ -17,6 +17,9 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Node.js)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![Jupyter Notebook](https://img.shields.io/badge/-jupyter%20notebook-000000?style=for-the-badge&logo=jupyter)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
+![Opencv](https://img.shields.io/badge/-opencv-000000?style=for-the-badge&logo=opencv)
+
 </br></br>
 
 ### Blog- </br>
