@@ -23,8 +23,6 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ### Blogs- </br>
 [Understanding Depth Perception in Computer Vision](https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/)
 
-</br>
-
 [Implementing Neural Style Transfer Using Pytorch](https://towardsdatascience.com/implementing-neural-style-transfer-using-pytorch-fd8d43fb7bfa)
 
 
