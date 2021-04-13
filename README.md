@@ -20,7 +20,7 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
 ![Opencv](https://img.shields.io/badge/-opencv-000000?style=for-the-badge&logo=opencv)
 
-</br></br>
+</br>
 
 ### Blogs- </br>
 [Understanding Depth Perception in Computer Vision](https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/)
@@ -29,7 +29,7 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 
 [Implementing Neural Style Transfer Using Pytorch](https://towardsdatascience.com/implementing-neural-style-transfer-using-pytorch-fd8d43fb7bfa)
 
-</br>
+
 
 ### My GitHub Stats- </br>
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Octaves0911&show_icons=true&theme=dark)
