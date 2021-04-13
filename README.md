@@ -20,8 +20,6 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker)
 ![Opencv](https://img.shields.io/badge/-opencv-000000?style=for-the-badge&logo=opencv)
 
-</br>
-
 ### Blogs- </br>
 [Understanding Depth Perception in Computer Vision](https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/)
 
