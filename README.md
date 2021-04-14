@@ -24,6 +24,7 @@ I am Aman Kumar Mallik, a 3rd year student from Dayananda Sagar College of Engin
 [Understanding Depth Perception in Computer Vision](https://birupakshyamahapatra.com/understanding-depth-perception-in-computer-vision/)
 
 [Implementing Neural Style Transfer Using Pytorch](https://towardsdatascience.com/implementing-neural-style-transfer-using-pytorch-fd8d43fb7bfa)
+
 [Face Recognition on Edge Device with Javascript part 1/2 (using face-api)](https://birupakshyamahapatra.com/face-recognition-edge-device-javascript-1-2-faceapi/)
 
 
